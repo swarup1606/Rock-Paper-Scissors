@@ -1,10 +1,12 @@
-# Rock-Paper-Scissors Python Showdown
+# Rock-Paper-Scissors🏆🤩
 
 > "Battle your wits with rock, paper, and scissors!"  
 
 Welcome to the **Rock-Paper-Scissors Python Showdown** – where classic strategy meets modern coding! This project is a fun and interactive implementation of the timeless game, built entirely in Python. Whether you’re looking for a quick break or a coding challenge, get ready to test your luck and skills!
 
 ---
+
+![Screenshot 2025-02-19 165832](https://github.com/user-attachments/assets/f8300545-d254-431d-b3cb-7a7998157af5)
 
 ## Table of Contents
 
@@ -13,7 +15,6 @@ Welcome to the **Rock-Paper-Scissors Python Showdown** – where classic strateg
 - [Installation](#installation)
 - [Usage](#usage)
 - [Game Mechanics](#game-mechanics)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -60,13 +61,11 @@ Make sure you have [Python 3](https://www.python.org/downloads/) installed on yo
 - Scissors cuts Paper
 - Paper covers Rock
 
-## Demo Video
-
-
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-If you have any questions, suggestions, or just want to chat about the game, feel free to open an issue or contact me directly at your.email@example.com.
+If you have any questions, suggestions, or just want to chat about the game, feel free to open an issue or contact me directly at 
+swarupkakade1810@gmail.com
 
 Happy gaming, and may the best hand win!
