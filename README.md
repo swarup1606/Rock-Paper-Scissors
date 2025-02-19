@@ -48,7 +48,7 @@ Make sure you have [Python 3](https://www.python.org/downloads/) installed on yo
 
 2. **Run the Game:**
    ```bash
-   python main.py
+   python rps.py
 
 ## Usage
 - Start the Game: Run main.py to launch the game.
